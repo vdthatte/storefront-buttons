@@ -154,7 +154,7 @@ export default App;
 // check if link is from store front - done
 // create button with link - done
 // create relevant button code - done
-// style buttons based on store fronts 
-// update relevant button code 
-// test with different usercases
-// design epic page 
+// style buttons based on store fronts -done
+// update relevant button code - done
+// test with different usercases - done
+// design epic page with copy - 

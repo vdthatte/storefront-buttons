@@ -82,7 +82,7 @@
 
   .redButton{
     font-size: 22px;
-    background: red;
+    background: #E81E24;
     border-style: solid;
     border-width: 1px;
     border-color: #fff;
@@ -93,22 +93,35 @@
     border-radius: 5px;
     color: #fff;
     text-decoration: none;
+    transition: 0.3s;
+  }
+
+  .redButton:hover{
+    background-color: #C90F14;
+    transition: 0.3s;
   }
 
   .whiteButton{
     font-size: 22px;
-    background: white;
+    background: #F2F4F5;
     border-style: solid;
     border-width: 1px;
-    border-color: rgb(206, 206, 206);
+    border-color: #E9ECEE;
     padding-left: 3%;
     padding-right: 3%;
     padding-top: 1%;
     padding-bottom: 1%;
     border-radius: 5px;
     text-decoration: none;
-    color: black;
+    color: #E81E24;
   }
+
+  .whiteButton:hover{
+    background-color: #E9ECEE;
+    transition: 0.3s;
+    color: #C90F14;
+  }
+
 }
 
 @media only screen and (max-width: 800px) {
