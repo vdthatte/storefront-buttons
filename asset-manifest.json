@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/storefront-buttons/static/css/main.69676b92.chunk.css",
-    "main.js": "/storefront-buttons/static/js/main.046e6898.chunk.js",
-    "main.js.map": "/storefront-buttons/static/js/main.046e6898.chunk.js.map",
-    "runtime~main.js": "/storefront-buttons/static/js/runtime~main.16c65614.js",
-    "runtime~main.js.map": "/storefront-buttons/static/js/runtime~main.16c65614.js.map",
-    "static/js/2.4e81ba5b.chunk.js": "/storefront-buttons/static/js/2.4e81ba5b.chunk.js",
-    "static/js/2.4e81ba5b.chunk.js.map": "/storefront-buttons/static/js/2.4e81ba5b.chunk.js.map",
-    "index.html": "/storefront-buttons/index.html",
-    "precache-manifest.17afb67e9880508bc0ccb8947def5b27.js": "/storefront-buttons/precache-manifest.17afb67e9880508bc0ccb8947def5b27.js",
-    "service-worker.js": "/storefront-buttons/service-worker.js",
-    "static/css/main.69676b92.chunk.css.map": "/storefront-buttons/static/css/main.69676b92.chunk.css.map",
-    "static/media/logo.svg": "/storefront-buttons/static/media/logo.5d5d9eef.svg"
+    "main.css": "link.withomni.co/static/css/main.69676b92.chunk.css",
+    "main.js": "link.withomni.co/static/js/main.2f4e9fce.chunk.js",
+    "main.js.map": "link.withomni.co/static/js/main.2f4e9fce.chunk.js.map",
+    "runtime~main.js": "link.withomni.co/static/js/runtime~main.5facf5a4.js",
+    "runtime~main.js.map": "link.withomni.co/static/js/runtime~main.5facf5a4.js.map",
+    "static/js/2.4e81ba5b.chunk.js": "link.withomni.co/static/js/2.4e81ba5b.chunk.js",
+    "static/js/2.4e81ba5b.chunk.js.map": "link.withomni.co/static/js/2.4e81ba5b.chunk.js.map",
+    "index.html": "link.withomni.co/index.html",
+    "precache-manifest.3b999c4cffd2aade064876b2f5befa34.js": "link.withomni.co/precache-manifest.3b999c4cffd2aade064876b2f5befa34.js",
+    "service-worker.js": "link.withomni.co/service-worker.js",
+    "static/css/main.69676b92.chunk.css.map": "link.withomni.co/static/css/main.69676b92.chunk.css.map",
+    "static/media/logo.svg": "link.withomni.co/static/media/logo.5d5d9eef.svg"
   }
 }
