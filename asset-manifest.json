@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/storefront-buttons/static/css/main.69676b92.chunk.css",
-    "main.js": "/storefront-buttons/static/js/main.c8d95b4d.chunk.js",
-    "main.js.map": "/storefront-buttons/static/js/main.c8d95b4d.chunk.js.map",
+    "main.css": "/storefront-buttons/static/css/main.2b9a1c70.chunk.css",
+    "main.js": "/storefront-buttons/static/js/main.4d663103.chunk.js",
+    "main.js.map": "/storefront-buttons/static/js/main.4d663103.chunk.js.map",
     "runtime~main.js": "/storefront-buttons/static/js/runtime~main.16c65614.js",
     "runtime~main.js.map": "/storefront-buttons/static/js/runtime~main.16c65614.js.map",
-    "static/js/2.4e81ba5b.chunk.js": "/storefront-buttons/static/js/2.4e81ba5b.chunk.js",
-    "static/js/2.4e81ba5b.chunk.js.map": "/storefront-buttons/static/js/2.4e81ba5b.chunk.js.map",
+    "static/js/2.489bd9e0.chunk.js": "/storefront-buttons/static/js/2.489bd9e0.chunk.js",
+    "static/js/2.489bd9e0.chunk.js.map": "/storefront-buttons/static/js/2.489bd9e0.chunk.js.map",
     "index.html": "/storefront-buttons/index.html",
-    "precache-manifest.c84e986a8bc10b804767adcf37c1514b.js": "/storefront-buttons/precache-manifest.c84e986a8bc10b804767adcf37c1514b.js",
+    "precache-manifest.a40770a3fd1037c9a9973949cee72a5a.js": "/storefront-buttons/precache-manifest.a40770a3fd1037c9a9973949cee72a5a.js",
     "service-worker.js": "/storefront-buttons/service-worker.js",
-    "static/css/main.69676b92.chunk.css.map": "/storefront-buttons/static/css/main.69676b92.chunk.css.map",
+    "static/css/main.2b9a1c70.chunk.css.map": "/storefront-buttons/static/css/main.2b9a1c70.chunk.css.map",
     "static/media/logo.svg": "/storefront-buttons/static/media/logo.5d5d9eef.svg"
   }
 }
